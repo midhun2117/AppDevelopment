@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e0e0e0;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0%;
+    right: 0;
+    height: 80px;
+    width: 100%;
+  }
+  .logo h1{
+    margin-top: 2%;
+    margin-left: 40%;
+  }
+  .logo {
+    margin-top: 30px 0;
+    font-size: 24px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    color: rgb(0, 0, 0); 
+    
+    top: 30px;
+  }
+  
+  .actions {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    font-weight: 500;
+    color:black;
+    list-style-type: none;
+  }
+  #nb{
+    margin-right: 5%;
+  }
+  
+  
+  
+  
+  
+  

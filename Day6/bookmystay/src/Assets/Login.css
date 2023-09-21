@@ -1,0 +1,70 @@
+h1{
+    
+    margin-block-start: -10%;
+}
+
+.muthu{
+    background-image: url("https://i.gifer.com/3uea.gif");
+    background-size: cover;
+    min-height: 100vh;
+}
+.login-box 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px; 
+    margin: 0 auto;
+    margin-left: 8%;
+    
+    
+}
+.main
+{
+    
+    background-color: #fff;
+    width: 120%;
+    padding: 70px;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    background-size: cover;
+    margin-top: 27%;
+    box-shadow: 0 0 10px rgba(30, 194, 74, 0.1);
+}
+.login-box input 
+{
+    width: 90%;
+    padding: 10px;
+    
+    border: 1px solid #010101;
+    border-radius: 3px;
+}
+.butt 
+{
+    align-items: center;
+    width: 95%;
+    padding: 10px;
+    background-color: #00ff0d;
+    color: #fff;
+    border: none; 
+    border-radius: 35px;
+    cursor: pointer;
+}
+.butt:hover 
+{
+    background-color: #f90505;
+}
+.but
+{
+    width: 95%;
+    padding: 10px;
+    background-color: #00bbff;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    cursor: pointer;
+}
+.but:hover
+{
+    background-color: rgb(255, 0, 0);
+}
