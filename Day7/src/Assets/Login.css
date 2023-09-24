@@ -1,0 +1,61 @@
+h2{
+    
+    margin-block-start: -10%;
+    color: #f9f8f8;
+}
+.muthu{
+    background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/2844.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+.login-box2 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px; 
+    margin:  auto;
+    padding-top: 9%;
+    
+    margin-left: 110px;
+    
+}
+.main2 {
+    width: 300%;
+    max-width: 400px; 
+    padding: 50px; 
+    border: 1px solid #ffffff;
+    background-color: #f9f8f8;
+    margin-top: -57px;
+    border-radius: 9px;
+    background-size: cover;
+    box-shadow: 0 0 10px rgba(30, 194, 74, 0.1);
+    overflow: hidden; 
+  }
+  
+
+
+.login-box2 input 
+{
+    width: 90%;
+    padding: 5px;
+    margin-bottom: -100px;
+    border: 1px solid #080808;
+    border-radius: 3px;
+}
+
+.but
+{
+    width: 95%;
+    padding: 10px;
+    background-color: #00bbff;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    cursor: pointer;
+}
+.but:hover
+{
+    background-color: rgb(255, 0, 0);
+}
+  
