@@ -1,0 +1,30 @@
+
+.container {
+  max-width: 1200px;
+  margin-top: 5%;
+  margin-left: 10%;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  margin: 20px 0;
+  color: black;
+}
+img {
+  width: 400px; 
+  height: 300px;
+  display: inline-block;
+  margin: 7%; 
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: '';
+  display: table;
+  clear: both;
+}
